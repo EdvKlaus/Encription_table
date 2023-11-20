@@ -1,0 +1,11 @@
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.csproj.AssemblyReference.cache
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.Form1.resources
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.Properties.Resources.resources
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.csproj.GenerateResource.cache
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.csproj.CoreCompileInputs.cache
+D:\Проекты C#\Encription_table\bin\Debug\Encription_table.exe.config
+D:\Проекты C#\Encription_table\bin\Debug\Encription_table.exe
+D:\Проекты C#\Encription_table\bin\Debug\Encription_table.pdb
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.exe
+D:\Проекты C#\Encription_table\obj\Debug\Encription_table.pdb
